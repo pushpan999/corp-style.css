@@ -7208,6 +7208,9 @@ a .alert-warning:hover {
   background-color: rgba(247, 150, 70, 0.58);
   border-color: #F79646;
 }
+body {
+  padding-top: 50px;
+}
 .syndex-panel {
   margin-bottom: 20px;
   background-color: #ffffff;
