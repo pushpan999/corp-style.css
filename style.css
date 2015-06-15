@@ -7337,11 +7337,11 @@ ul.error-list {
 .panel-footer {
   background-color: #fff;
 }
-.panel-syndex a.footer-link {
+.syndex-panel a.footer-link {
   color: #1D1D1D;
   text-decoration: none;
 }
-.panel-syndex a.footer-link:after {
+.syndex-panel a.footer-link:after {
   font-family: "Glyphicons Halflings";
   content: "\e080";
   margin-left: 2px;
